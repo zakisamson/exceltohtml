@@ -1,0 +1,4 @@
+OrderDate,Region,Rep,Item,Units,Unit Cost,Total
+2025-02-21,North,John Doe,Laptop,2,1200,2400
+2025-02-21,West,Jane Smith,Monitor,3,300,900
+2025-02-21,East,Bob Brown,Keyboard,5,50,250
